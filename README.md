@@ -1,1 +1,3 @@
-# Topic-Modeling-in-Power-BI
+# Topic Modeling in Power BI
+
+Topic modeling is a popular technique used in natural language processing to extract key themes or topics from a corpus of text. Power BI, a data analytics and visualization tool, offers a powerful feature called Key Influencers that can be used for topic modeling. With Key Influencers, users can easily identify patterns and relationships between topics and other relevant factors. This allows for deeper analysis and insights into the underlying meaning of text data. By utilizing the topic modeling capabilities of Power BI, businesses and individuals can gain a better understanding of customer feedback, social media sentiment, and other unstructured data sources. Topic modeling is a powerful technique that can be used to extract key themes and topics from a corpus of text data.
